@@ -1,0 +1,14 @@
+--------HVLCalculator----------
+--------Version Alpha----------
+--------Results----------------
+Unfiltered spectrum
+HVL1 (mm of Aluminum): 0.286
+HVL2 (mm of Aluminum): 0.666
+Average Energy (eV): 16259.8
+Effective Energy (eV): 14343.1
+-------------------------------
+Filtered spectrum
+HVL1 (mm of Aluminum): 0.326
+HVL2 (mm of Aluminum): 0.739
+Average Energy (eV): 16639.4
+Effective Energy (eV): 14999.9
